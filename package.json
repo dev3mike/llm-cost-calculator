@@ -1,6 +1,6 @@
 {
   "name": "llm-cost-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate token counts and estimated costs for Large Language Models (LLMs)",
   "main": "dist/src/main.js",
   "scripts": {
